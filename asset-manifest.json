@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devesh202.github.io/csb-0cvgc9/static/css/main.511ffa74.chunk.css",
+    "main.js": "https://devesh202.github.io/csb-0cvgc9/static/js/main.178fff88.chunk.js",
+    "main.js.map": "https://devesh202.github.io/csb-0cvgc9/static/js/main.178fff88.chunk.js.map",
+    "runtime-main.js": "https://devesh202.github.io/csb-0cvgc9/static/js/runtime-main.61e4eb81.js",
+    "runtime-main.js.map": "https://devesh202.github.io/csb-0cvgc9/static/js/runtime-main.61e4eb81.js.map",
+    "static/js/2.2023f01e.chunk.js": "https://devesh202.github.io/csb-0cvgc9/static/js/2.2023f01e.chunk.js",
+    "static/js/2.2023f01e.chunk.js.map": "https://devesh202.github.io/csb-0cvgc9/static/js/2.2023f01e.chunk.js.map",
+    "index.html": "https://devesh202.github.io/csb-0cvgc9/index.html",
+    "static/css/main.511ffa74.chunk.css.map": "https://devesh202.github.io/csb-0cvgc9/static/css/main.511ffa74.chunk.css.map",
+    "static/js/2.2023f01e.chunk.js.LICENSE.txt": "https://devesh202.github.io/csb-0cvgc9/static/js/2.2023f01e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61e4eb81.js",
+    "static/js/2.2023f01e.chunk.js",
+    "static/css/main.511ffa74.chunk.css",
+    "static/js/main.178fff88.chunk.js"
+  ]
+}
